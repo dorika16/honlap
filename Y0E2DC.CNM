@@ -1,0 +1,27 @@
+Received: from SpoolDir by SG (Mercury 1.48); 29 Aug 21 21:31:10 +MET DST
+Return-path: <fodor@gyakg.u-szeged.hu>
+Received: from postfix.gyakg.u-szeged.hu (10.0.20.204) by sagv.gyakg.u-szeged.hu (Mercury 1.48) with ESMTP;
+    29 Aug 21 21:31:06 +MET DST
+Received: from webmail.gyakg.u-szeged.hu (unknown [192.168.2.32])
+	by postfix.gyakg.u-szeged.hu (Postfix) with ESMTP id 3D86A438;
+	Sun, 29 Aug 2021 19:31:06 +0000 (UTC)
+Received: from gyakg.u-szeged.hu (localhost [127.0.0.1])
+	by webmail.gyakg.u-szeged.hu (Postfix) with ESMTP id 4355534072;
+	Sun, 29 Aug 2021 21:31:04 +0200 (CEST)
+From: "Fodor Zsolt" <fodor@gyakg.u-szeged.hu>
+To: horvathk@gyakg.u-szeged.hu, arpadfalvi@gyakg.u-szeged.hu
+Subject: teszt
+Date: Sun, 29 Aug 2021 21:31:04 +0200
+Message-Id: <20210829193048.M84286@gyakg.u-szeged.hu>
+X-Mailer: OpenWebMail 2.53 
+X-OriginatingIP: 188.6.99.148 (fodor.tanar.sagvari)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=utf-8
+
+
+
+--
+Fodor Zsolt :: SZTE Gyakorló Gimnázium és Általános Iskola
+62/544-000/3371 :
+
